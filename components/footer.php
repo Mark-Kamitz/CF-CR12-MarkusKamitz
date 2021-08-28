@@ -1,0 +1,3 @@
+<div class="d-flex justify-content-center align-items-center bg-dark text-white fs-5 p-3 mt-2" >
+<div class="mx-2"><i class="fab fa-twitter"></i></div> <div class="mx-2"><i class="fab fa-linkedin-in"></i> </div> <div class="mx-2"><i class="fab fa-facebook"></i></div><div class="mx-2"> <i class="fab fa-youtube"></i> </div><div class="mx-2"><i class="fab fa-skype"></i></div><div class="mx-2"> <i class="fab fa-flickr"></i></div><div class="mx-2"> <i class="fab fa-twitch"></i> </div><div class="mx-2"><i class="fab fa-tumblr"></i></div>
+</div>
