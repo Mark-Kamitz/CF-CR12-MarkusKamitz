@@ -1,4 +1,7 @@
+
 # CF-CR12-MarkusKamitz
+
+![CR12](https://user-images.githubusercontent.com/85449060/131909090-961bd6ae-5cbf-40ac-96e8-7b0f1c8c45b2.png)
 
 ## Project Description:
 
